@@ -3,11 +3,15 @@
 ## 介绍(Introduce)
 
 - 本套教程适用于：
-	- IntelliJ IDEA 14、15、2016、2017 版本
-	- WebStorm 2016、2017 版本
-	- PhpStorm 2016、2017 版本
-	- PyCharm 2016、2017 版本
-	- Android Studio 2.X、3.X 版本	
+	- [IntelliJ IDEA 14、15、2016、2017 版本](https://www.jetbrains.com/idea/)
+	- [WebStorm 2016、2017 版本](https://www.jetbrains.com/webstorm)
+	- [PhpStorm 2016、2017 版本](https://www.jetbrains.com/phpstorm)
+	- [PyCharm 2016、2017 版本](https://www.jetbrains.com/pycharm)
+	- [RubyMine 2016、2017 版本](https://www.jetbrains.com/ruby)
+	- [Gogland 2017 版本](https://www.jetbrains.com/go)
+	- [CLion 2017 版本](https://www.jetbrains.com/clion)
+	- [DataGrip 2016、2017 版本](https://www.jetbrains.com/datagrip)
+	- [Android Studio 2.X、3.X 版本](https://developer.android.com/studio/index.html?hl=zh-cn)
 - 教程主要面向中文用户，如果你英文良好，建议直接阅读官网帮助文档
 	- 官网帮助中心：<http://www.jetbrains.com/idea/webhelp/getting-help.html>
 - 教程目前在不定时进行调整和补充，需要关注更新的请 `Watch`、`Star`、`Fork`。
@@ -19,7 +23,11 @@
 - 如果你需要一份电子版，请查看（制作电子版很费精力，不会常更新此文件）：
     - 百度云：<http://pan.baidu.com/s/1i3wFYPB>
     - Google Drive：[https://drive.google.com/file/d/0B5...UU/view?usp=sharing](https://drive.google.com/file/d/0B5gjjw8peC5Sa19vVEswbTRYYUU/view?usp=sharing "Google Drive")
-- 2017-07：应部分童鞋要求，同步到 GitBook 上供大家阅读：<https://youmeek.gitbooks.io/intellij-idea-tutorial/content/>
+- GitBook 在线阅读地址：<https://youmeek.gitbooks.io/intellij-idea-tutorial/content/>
+- 2017-10：[关于咕泡学院的教程：《IntelliJ IDEA使用教程》侵权说明](http://www.youmeek.com/intellij-idea-tutorial-infringement/)
+- 2017-10：[IntelliJ IDEA-Windows-新手必备基础配置整理（密码：z1uo）](http://pan.baidu.com/s/1nvfzKTj)
+	- 使用方法：把解压后 config 目录下的所有子目录覆盖到：`C:\Users\你的电脑登录用户名\.IntelliJIdea2017.2\config` 目录下（[Mac 用户](https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/installation-directory-introduce.md#mac-的配置文件保存路径)）
+	- 导入后，你过去的一些配置可能会丢失，所以需要重新配置下，每个人都不一样，这需要你自己进行分析。
 
 ## 目录(Contents)
 
@@ -30,7 +38,7 @@
 - [05. 安装环境：Mac](mac-install.md)
 - [06. 安装环境总结（新用户必看）](install-summarize.md)
 - [07. 首次运行向导（新用户必看）](first-run-wizard.md)
-- [08. 安装后生成的目录说明、IDE 设置云同步（新用户必看）](installation-directory-introduce.md)
+- [08. 安装后生成的目录说明、VM 设置（新用户必看）](installation-directory-introduce.md)
 - [09. UI 界面（新用户必看）](interface-introduce.md)
 - [10. UI 主题、字体、编辑区主题、文件编码修改、乱码问题（新用户必看）](theme-settings.md)
 - [11. 常见各类文件类型图标（新用户必看）](file-symbols-introduce.md)
@@ -78,14 +86,13 @@
 ## Github 协同视频教程(Participate)
 
 - 如果您不会使用 Git 或是 Github 也没关系，请认真学习下面视频教程：
-- Judas.n 录制
+- YouMeek 录制
     - 视频格式：MP4
     - 分辨率：1920 X 1080
     - 片长：16 Min
     - 文件大小：62 M
 - 下载
     - 百度云盘：<http://pan.baidu.com/s/1bogmTLd>
-    - 360 网盘（2fb5）：<https://yunpan.cn/cYez7W9xnHs3c>
 
 
 ## Github 常用按钮说明
@@ -108,7 +115,7 @@
 
 |作者(按参与时间排序)|地址|
 |:---------|:---------|
-|Judas.n|<http://code.YouMeek.com>|
+|YouMeek|<http://YouMeek.com>|
 |温泉|<https://github.com/wenquan0hf>|
 |zhenhappy|<https://github.com/zhenhappy>|
 |two8g|<https://github.com/two8g>|
